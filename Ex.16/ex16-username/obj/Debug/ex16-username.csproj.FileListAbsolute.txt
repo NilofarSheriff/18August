@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\obj\Debug\ex16-username.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\obj\Debug\ex16-username.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\obj\Debug\ex16-username.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\bin\Debug\ex16-username.exe.config
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\bin\Debug\ex16-username.exe
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\bin\Debug\ex16-username.pdb
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\obj\Debug\ex16-username.exe
+C:\Users\M NILOFAR\source\repos\ex16-username\ex16-username\obj\Debug\ex16-username.pdb

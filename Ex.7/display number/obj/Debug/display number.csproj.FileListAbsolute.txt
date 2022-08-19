@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\display number\display number\bin\Debug\display number.exe.config
+C:\Users\M NILOFAR\source\repos\display number\display number\bin\Debug\display number.exe
+C:\Users\M NILOFAR\source\repos\display number\display number\bin\Debug\display number.pdb
+C:\Users\M NILOFAR\source\repos\display number\display number\obj\Debug\display number.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\display number\display number\obj\Debug\display number.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\display number\display number\obj\Debug\display number.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\display number\display number\obj\Debug\display number.exe
+C:\Users\M NILOFAR\source\repos\display number\display number\obj\Debug\display number.pdb

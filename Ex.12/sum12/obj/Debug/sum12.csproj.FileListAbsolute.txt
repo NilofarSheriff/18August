@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\sum12\sum12\bin\Debug\sum12.exe.config
+C:\Users\M NILOFAR\source\repos\sum12\sum12\bin\Debug\sum12.exe
+C:\Users\M NILOFAR\source\repos\sum12\sum12\bin\Debug\sum12.pdb
+C:\Users\M NILOFAR\source\repos\sum12\sum12\obj\Debug\sum12.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\sum12\sum12\obj\Debug\sum12.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\sum12\sum12\obj\Debug\sum12.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\sum12\sum12\obj\Debug\sum12.exe
+C:\Users\M NILOFAR\source\repos\sum12\sum12\obj\Debug\sum12.pdb

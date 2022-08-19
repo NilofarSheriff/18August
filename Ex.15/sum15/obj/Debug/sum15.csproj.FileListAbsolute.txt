@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\sum15\sum15\bin\Debug\sum15.exe.config
+C:\Users\M NILOFAR\source\repos\sum15\sum15\bin\Debug\sum15.exe
+C:\Users\M NILOFAR\source\repos\sum15\sum15\bin\Debug\sum15.pdb
+C:\Users\M NILOFAR\source\repos\sum15\sum15\obj\Debug\sum15.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\sum15\sum15\obj\Debug\sum15.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\sum15\sum15\obj\Debug\sum15.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\sum15\sum15\obj\Debug\sum15.exe
+C:\Users\M NILOFAR\source\repos\sum15\sum15\obj\Debug\sum15.pdb

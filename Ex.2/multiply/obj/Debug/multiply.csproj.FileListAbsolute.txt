@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\multiply\multiply\bin\Debug\multiply.exe.config
+C:\Users\M NILOFAR\source\repos\multiply\multiply\bin\Debug\multiply.exe
+C:\Users\M NILOFAR\source\repos\multiply\multiply\bin\Debug\multiply.pdb
+C:\Users\M NILOFAR\source\repos\multiply\multiply\obj\Debug\multiply.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\multiply\multiply\obj\Debug\multiply.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\multiply\multiply\obj\Debug\multiply.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\multiply\multiply\obj\Debug\multiply.exe
+C:\Users\M NILOFAR\source\repos\multiply\multiply\obj\Debug\multiply.pdb

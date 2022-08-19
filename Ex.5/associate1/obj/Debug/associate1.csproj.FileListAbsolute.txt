@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\associate1\associate1\bin\Debug\associate1.exe.config
+C:\Users\M NILOFAR\source\repos\associate1\associate1\bin\Debug\associate1.exe
+C:\Users\M NILOFAR\source\repos\associate1\associate1\bin\Debug\associate1.pdb
+C:\Users\M NILOFAR\source\repos\associate1\associate1\obj\Debug\associate1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\associate1\associate1\obj\Debug\associate1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\associate1\associate1\obj\Debug\associate1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\associate1\associate1\obj\Debug\associate1.exe
+C:\Users\M NILOFAR\source\repos\associate1\associate1\obj\Debug\associate1.pdb

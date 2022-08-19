@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\average1\average1\bin\Debug\average1.exe.config
+C:\Users\M NILOFAR\source\repos\average1\average1\bin\Debug\average1.exe
+C:\Users\M NILOFAR\source\repos\average1\average1\bin\Debug\average1.pdb
+C:\Users\M NILOFAR\source\repos\average1\average1\obj\Debug\average1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\average1\average1\obj\Debug\average1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\average1\average1\obj\Debug\average1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\average1\average1\obj\Debug\average1.exe
+C:\Users\M NILOFAR\source\repos\average1\average1\obj\Debug\average1.pdb

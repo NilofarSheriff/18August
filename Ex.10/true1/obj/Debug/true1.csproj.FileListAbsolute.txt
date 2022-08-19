@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\true1\true1\bin\Debug\true1.exe.config
+C:\Users\M NILOFAR\source\repos\true1\true1\bin\Debug\true1.exe
+C:\Users\M NILOFAR\source\repos\true1\true1\bin\Debug\true1.pdb
+C:\Users\M NILOFAR\source\repos\true1\true1\obj\Debug\true1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\true1\true1\obj\Debug\true1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\true1\true1\obj\Debug\true1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\true1\true1\obj\Debug\true1.exe
+C:\Users\M NILOFAR\source\repos\true1\true1\obj\Debug\true1.pdb

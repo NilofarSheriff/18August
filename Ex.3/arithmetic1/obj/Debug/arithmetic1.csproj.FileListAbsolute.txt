@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\bin\Debug\arithmetic1.exe.config
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\bin\Debug\arithmetic1.exe
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\bin\Debug\arithmetic1.pdb
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\obj\Debug\arithmetic1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\obj\Debug\arithmetic1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\obj\Debug\arithmetic1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\obj\Debug\arithmetic1.exe
+C:\Users\M NILOFAR\source\repos\arithmetic1\arithmetic1\obj\Debug\arithmetic1.pdb

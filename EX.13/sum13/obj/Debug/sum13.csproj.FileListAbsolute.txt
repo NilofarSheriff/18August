@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\sum13\sum13\obj\Debug\sum13.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\sum13\sum13\obj\Debug\sum13.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\sum13\sum13\obj\Debug\sum13.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\sum13\sum13\bin\Debug\sum13.exe.config
+C:\Users\M NILOFAR\source\repos\sum13\sum13\bin\Debug\sum13.exe
+C:\Users\M NILOFAR\source\repos\sum13\sum13\bin\Debug\sum13.pdb
+C:\Users\M NILOFAR\source\repos\sum13\sum13\obj\Debug\sum13.exe
+C:\Users\M NILOFAR\source\repos\sum13\sum13\obj\Debug\sum13.pdb

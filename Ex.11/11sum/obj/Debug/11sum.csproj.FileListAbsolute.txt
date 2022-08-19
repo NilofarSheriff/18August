@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\11sum\11sum\bin\Debug\11sum.exe.config
+C:\Users\M NILOFAR\source\repos\11sum\11sum\bin\Debug\11sum.exe
+C:\Users\M NILOFAR\source\repos\11sum\11sum\bin\Debug\11sum.pdb
+C:\Users\M NILOFAR\source\repos\11sum\11sum\obj\Debug\11sum.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\11sum\11sum\obj\Debug\11sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\11sum\11sum\obj\Debug\11sum.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\11sum\11sum\obj\Debug\11sum.exe
+C:\Users\M NILOFAR\source\repos\11sum\11sum\obj\Debug\11sum.pdb

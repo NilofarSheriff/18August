@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\age1\age1\bin\Debug\age1.exe.config
+C:\Users\M NILOFAR\source\repos\age1\age1\bin\Debug\age1.exe
+C:\Users\M NILOFAR\source\repos\age1\age1\bin\Debug\age1.pdb
+C:\Users\M NILOFAR\source\repos\age1\age1\obj\Debug\age1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\age1\age1\obj\Debug\age1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\age1\age1\obj\Debug\age1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\age1\age1\obj\Debug\age1.exe
+C:\Users\M NILOFAR\source\repos\age1\age1\obj\Debug\age1.pdb

@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\swap1\swap1\bin\Debug\swap1.exe.config
+C:\Users\M NILOFAR\source\repos\swap1\swap1\bin\Debug\swap1.exe
+C:\Users\M NILOFAR\source\repos\swap1\swap1\bin\Debug\swap1.pdb
+C:\Users\M NILOFAR\source\repos\swap1\swap1\obj\Debug\swap1.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\swap1\swap1\obj\Debug\swap1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\swap1\swap1\obj\Debug\swap1.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\swap1\swap1\obj\Debug\swap1.exe
+C:\Users\M NILOFAR\source\repos\swap1\swap1\obj\Debug\swap1.pdb

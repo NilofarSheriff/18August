@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\bin\Debug\kelvin2fh.exe.config
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\bin\Debug\kelvin2fh.exe
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\bin\Debug\kelvin2fh.pdb
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\obj\Debug\kelvin2fh.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\obj\Debug\kelvin2fh.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\obj\Debug\kelvin2fh.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\obj\Debug\kelvin2fh.exe
+C:\Users\M NILOFAR\source\repos\kelvin2fh\kelvin2fh\obj\Debug\kelvin2fh.pdb

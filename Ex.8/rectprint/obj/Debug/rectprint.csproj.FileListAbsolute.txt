@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\bin\Debug\rectprint.exe.config
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\bin\Debug\rectprint.exe
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\bin\Debug\rectprint.pdb
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\obj\Debug\rectprint.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\obj\Debug\rectprint.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\obj\Debug\rectprint.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\obj\Debug\rectprint.exe
+C:\Users\M NILOFAR\source\repos\rectprint\rectprint\obj\Debug\rectprint.pdb

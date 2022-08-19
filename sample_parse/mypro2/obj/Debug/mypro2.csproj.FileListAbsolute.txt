@@ -1,0 +1,8 @@
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\bin\Debug\mypro2.exe.config
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\bin\Debug\mypro2.exe
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\bin\Debug\mypro2.pdb
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\obj\Debug\mypro2.csproj.AssemblyReference.cache
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\obj\Debug\mypro2.csproj.SuggestedBindingRedirects.cache
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\obj\Debug\mypro2.csproj.CoreCompileInputs.cache
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\obj\Debug\mypro2.exe
+C:\Users\M NILOFAR\source\repos\mypro2\mypro2\obj\Debug\mypro2.pdb
